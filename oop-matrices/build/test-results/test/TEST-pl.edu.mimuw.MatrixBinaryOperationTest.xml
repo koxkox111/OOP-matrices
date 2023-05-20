@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.mimuw.MatrixBinaryOperationTest" tests="74" skipped="3" failures="0" errors="0" timestamp="2022-05-17T19:27:51" hostname="decubuntu" time="0.353">
+  <properties/>
+  <testcase name="[7] Rozmiar macierzy: [ 2, 1 ]&#10;18.0&#10;19.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.043"/>
+  <testcase name="[7] Rozmiar macierzy: [ 2, 1 ]&#10;18.0&#10;19.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.044"/>
+  <testcase name="[7] Rozmiar macierzy: [ 2, 1 ]&#10;18.0&#10;19.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.046"/>
+  <testcase name="[1] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.046"/>
+  <testcase name="[1] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.046"/>
+  <testcase name="[8] Rozmiar macierzy: [ 3, 1 ]&#10;15.0&#10;16.0&#10;17.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[2] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[4] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.003"/>
+  <testcase name="[2] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.046"/>
+  <testcase name="[1] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[9] Rozmiar macierzy: [ 2, 2 ]&#10;1 0 &#10;0 1 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[4] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[4] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[3] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[10] Rozmiar macierzy: [ 3, 3 ]&#10;1 0 0 &#10;0 1 0 &#10;0 0 1 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.007"/>
+  <testcase name="[8] Rozmiar macierzy: [ 3, 1 ]&#10;15.0&#10;16.0&#10;17.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.005"/>
+  <testcase name="[3] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.003"/>
+  <testcase name="[2] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[8] Rozmiar macierzy: [ 3, 1 ]&#10;15.0&#10;16.0&#10;17.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.003"/>
+  <testcase name="[9] Rozmiar macierzy: [ 2, 2 ]&#10;1 0 &#10;0 1 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[9] Rozmiar macierzy: [ 2, 2 ]&#10;1 0 &#10;0 1 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.052"/>
+  <testcase name="[10] Rozmiar macierzy: [ 3, 3 ]&#10;1 0 0 &#10;0 1 0 &#10;0 0 1 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[11] Rozmiar macierzy: [ 3, 2 ]&#10;0 0&#10;0 0&#10;0 0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[10] Rozmiar macierzy: [ 3, 3 ]&#10;1 0 0 &#10;0 1 0 &#10;0 0 1 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[1] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[11] Rozmiar macierzy: [ 3, 2 ]&#10;0 0&#10;0 0&#10;0 0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[11] Rozmiar macierzy: [ 3, 2 ]&#10;0 0&#10;0 0&#10;0 0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[2] Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[1] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] Rozmiar macierzy: [ 3, 3 ]&#10;7.0 0 0 &#10;0 8.0 0 &#10;0 0 9.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.003"/>
+  <testcase name="[4] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[5] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[7] Rozmiar macierzy: [ 2, 1 ]&#10;18.0&#10;19.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.006"/>
+  <testcase name="[2] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[6] Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[2] Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[3] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[4] Rozmiar macierzy: [ 3, 3 ]&#10;0 0 10.0 &#10;0 11.0 0 &#10;12.0 0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[4] Rozmiar macierzy: [ 3, 3 ]&#10;0 0 10.0 &#10;0 11.0 0 &#10;12.0 0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.005"/>
+  <testcase name="[7] Rozmiar macierzy: [ 2, 1 ]&#10;18.0&#10;19.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[1] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[8] Rozmiar macierzy: [ 3, 1 ]&#10;15.0&#10;16.0&#10;17.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[1] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;, Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[5] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[4] Rozmiar macierzy: [ 3, 3 ]&#10;0 0 10.0 &#10;0 11.0 0 &#10;12.0 0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[5] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] Rozmiar macierzy: [ 3, 3 ]&#10;7.0 0 0 &#10;0 8.0 0 &#10;0 0 9.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[2] Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[6] Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[3] Rozmiar macierzy: [ 3, 3 ]&#10;7.0 0 0 &#10;0 8.0 0 &#10;0 0 9.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[8] Rozmiar macierzy: [ 3, 1 ]&#10;15.0&#10;16.0&#10;17.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[6] Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[9] Rozmiar macierzy: [ 2, 2 ]&#10;1 0 &#10;0 1 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[6] Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[10] Rozmiar macierzy: [ 3, 3 ]&#10;1 0 0 &#10;0 1 0 &#10;0 0 1 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[5] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[1] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.038"/>
+  <testcase name="[4] Rozmiar macierzy: [ 3, 3 ]&#10;0 0 10.0 &#10;0 11.0 0 &#10;12.0 0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[11] Rozmiar macierzy: [ 3, 2 ]&#10;0 0&#10;0 0&#10;0 0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.003"/>
+  <testcase name="[9] Rozmiar macierzy: [ 2, 2 ]&#10;1 0 &#10;0 1 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[4] Rozmiar macierzy: [ 3, 3 ]&#10;0 0 10.0 &#10;0 11.0 0 &#10;12.0 0 0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[11] Rozmiar macierzy: [ 3, 2 ]&#10;0 0&#10;0 0&#10;0 0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.0"/>
+  <testcase name="[3] Rozmiar macierzy: [ 3, 3 ]&#10;7.0 0 0 &#10;0 8.0 0 &#10;0 0 9.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.002"/>
+  <testcase name="[2] Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[1] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.058"/>
+  <testcase name="[3] Rozmiar macierzy: [ 3, 3 ]&#10;7.0 0 0 &#10;0 8.0 0 &#10;0 0 9.0 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.063"/>
+  <testcase name="[10] Rozmiar macierzy: [ 3, 3 ]&#10;1 0 0 &#10;0 1 0 &#10;0 0 1 &#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.069"/>
+  <testcase name="[6] Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.001"/>
+  <testcase name="[2] Rozmiar macierzy: [ 3, 2 ]&#10;1.0 2.0&#10;3.0 4.0&#10;5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.065"/>
+  <testcase name="[5] Rozmiar macierzy: [ 2, 3 ]&#10;1.0 2.0 3.0&#10;4.0 5.0 6.0&#10;" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.072"/>
+  <testcase name="testMinusSparseMatrices()" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.292">
+    <skipped/>
+  </testcase>
+  <testcase name="testPlusSparseMatrices()" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.222">
+    <skipped/>
+  </testcase>
+  <testcase name="testTimesSparseMatrices()" classname="pl.edu.mimuw.MatrixBinaryOperationTest" time="0.221">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[git
+git
+git
+git
+git
+git
+git
+git
+git
+git
+git
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
